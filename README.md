@@ -1,7 +1,7 @@
 # 🚀 Quantum CV  
 **Your Career in Multiple States at Once**  
 
-![Quantum CV Banner](https://via.placeholder.com/1200x600/0f172a/00e6fe?text=Quantum+CV+-+A+Stark-Worthy+Portfolio+CMS)  
+![Quantum CV Banner](https://github.com/imama2/quantum-cv/blob/5245447954f3915967c37698204c20344841d664/ironmam-designing-suit.png)  
 *(Replace with a sleek screenshot/logo of your project)*  
 
 ### **✨ Stark-Grade Features**  
