@@ -17,7 +17,7 @@ A Laravel-powered **professional portfolio CMS** designed for those who refuse t
 ### **🛠️ Installation**  
 1. **Clone the repo** (like stealing a suit from Stark Industries):  
    ```bash
-   git clone https://github.com/yourusername/quantum-cv.git
+   git clone https://github.com/imama2/quantum-cv.git
 2. **Install Dependencies** (no arc reactor required):  
    composer install
    npm install
